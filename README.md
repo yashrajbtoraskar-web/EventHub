@@ -1,4 +1,5 @@
 # Event & Workshop Portal (Supabase version)
+#Live site- https://portalwiz-eventhub-yash.vercel.app/
 
 React + Vite frontend, Supabase (Postgres + Auth) backend.
 
